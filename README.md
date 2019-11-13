@@ -1,2 +1,2 @@
 # tempus-machina
-convert es6+ to ES5
+convert ES6+ to ES5
